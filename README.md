@@ -16,17 +16,17 @@ Desarrollar una herramienta capaz de traducir contenido web manteniendo, en la m
 
 # Roadmap
 
-- [] Incorporar funcionalidades basadas en IA
-- [] Crear extensión básica
-- [] Detectar contenido textual
-- [] Traducir contenido al español
-- [] Restaurar contenido original
-- [] Detectar múltiples idiomas
-- [] Procesar contenido dinámico
-- [] Implementar sistema de caché
-- [] Añadir soporte para PDFs
-- [] Añadir OCR
-- [] Implementar traducción contextual
+- [ ] Incorporar funcionalidades basadas en IA
+- [ ] Crear extensión básica
+- [ ] Detectar contenido textual
+- [ ] Traducir contenido al español
+- [ ] Restaurar contenido original
+- [ ] Detectar múltiples idiomas
+- [ ] Procesar contenido dinámico
+- [ ] Implementar sistema de caché
+- [ ] Añadir soporte para PDFs
+- [ ] Añadir OCR
+- [ ] Implementar traducción contextual
 
 # Tecnologias
 
